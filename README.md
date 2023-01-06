@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200em" src="https://user-images.githubusercontent.com/82486897/182941944-c697692a-9bf1-4f00-8bba-4fb81e6bc7e0.png"/>
+  <img height="202em" src="https://user-images.githubusercontent.com/82486897/182941944-c697692a-9bf1-4f00-8bba-4fb81e6bc7e0.png"/>
   <a href="https://github.com/maiarasteffen">
   <img height="380em" src="https://github-readme-stats.vercel.app/api?username=maiarasteffen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
