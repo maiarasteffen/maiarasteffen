@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="202em" src="https://user-images.githubusercontent.com/82486897/182941944-c697692a-9bf1-4f00-8bba-4fb81e6bc7e0.png"/>
+<div align="left">
+  <img height="160em" src="https://user-images.githubusercontent.com/82486897/182941944-c697692a-9bf1-4f00-8bba-4fb81e6bc7e0.png"/>
   <a href="https://github.com/maiarasteffen">
 </div>
 
