@@ -1,13 +1,15 @@
 <div align="left">
-  <img height="160em" src="https://user-images.githubusercontent.com/82486897/182941944-c697692a-9bf1-4f00-8bba-4fb81e6bc7e0.png"/>
+  <img height="165em" src="https://user-images.githubusercontent.com/82486897/182941944-c697692a-9bf1-4f00-8bba-4fb81e6bc7e0.png"/>
   <a href="https://github.com/maiarasteffen">
 </div>
 
  <div>
    <a href="https://github.com/maiarasteffen">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiarasteffen&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiarasteffen&layout=compact&langs_count=6&theme=radical"/>
-
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maiarasteffen&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+   <img height="180em" src="https://streak-stats.demolab.com/?user=maiarasteffen&theme=bear&background=000&border=30A3DC&dates=FFF" >
+</div>
+<div>
+    <img height="330em" src="https://github-readme-stats.vercel.app/api?username=maiarasteffen&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 </div>
   
   ##
@@ -36,7 +38,6 @@
  <br>
   
 <div> 
-  <a href="https://instagram.com/maiara_steffen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:maiiara.c@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maiara-steffen-a93927219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
