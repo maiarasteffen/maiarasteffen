@@ -1,15 +1,12 @@
 <div align="left">
-  <img height="165em" src="https://user-images.githubusercontent.com/82486897/182941944-c697692a-9bf1-4f00-8bba-4fb81e6bc7e0.png"/>
+  <img height="300px" src="https://user-images.githubusercontent.com/82486897/182941944-c697692a-9bf1-4f00-8bba-4fb81e6bc7e0.png"/>
   <a href="https://github.com/maiarasteffen">
 </div>
 
- <div>
-   <a href="https://github.com/maiarasteffen">
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maiarasteffen&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-   <img height="180em" src="https://streak-stats.demolab.com/?user=maiarasteffen&theme=bear&background=000&border=30A3DC&dates=FFF" >
-</div>
-<div>
-    <img height="330em" src="https://github-readme-stats.vercel.app/api?username=maiarasteffen&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+<img height="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maiarasteffen&langs_count=8&&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+<div align="left">
+  <img height="200px" src="https://streak-stats.demolab.com/?user=maiarasteffen&theme=bear&background=000&border=30A3DC&dates=FFF" />
+  <img height="213px" src="https://github-readme-stats.vercel.app/api?username=maiarasteffen&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
 </div>
   
   ##
